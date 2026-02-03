@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Name
+# 👋 Hello
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F75C7E&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Angular+%7C+Java+Specialist;Building+High-Performance+Enterprise+Platforms;5%2B+Years+of+Production+Experience)
 
@@ -40,12 +40,12 @@
 ---
 
 ## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=timurxo&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=timurxo&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
@@ -56,25 +56,5 @@
 
 ---
 
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ **Building software that scales — not just runs**
 
-
-<!--
-**timurxo/timurxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
